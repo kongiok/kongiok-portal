@@ -1,0 +1,40 @@
+:root {
+  --color-seed-primary: 45.06, 95.95%, 48.43%;
+  --color-seed-secondary: 242.07, 95.6%, 17.84%;
+  --color-seed-tertiary: 0, 95.95%, 48.43%;
+  --color-primary: 45.06, 95.95%, 48.43%;
+  --color-on-primary: 0, 0%, 23.92%;
+  --color-secondary: 242.07, 95.6%, 17.84%;
+  --color-on-secondary: 60, 7.14%, 94.51;
+  --color-tertiary: 0, 95.95%, 48.43%;
+  --color-on-tertiary: 0, 0%, 23.92%;
+  --color-neutral: 60, 7.14%, 94.51;
+  --color-on-neutral: 0, 0%, 23.92%;
+  --color-success: 87.27, 93.62%, 81.57%;
+  --color-on-success: 0, 0%, 23.92%;
+  --color-warning: 48.41, 93.62%, 81.57%;
+  --color-on-warning: 0, 0%, 23.92%;
+  --color-danger: 0, 93.62%, 81.57%;
+  --color-on-danger: 0, 0%, 23.92%;
+}
+
+:root[data-theme="dark"],
+.dark {
+  --color-seed-primary: 45.06, 95.95%, 48.43%;
+  --color-seed-secondary: 242.07, 95.6%, 17.84%;
+  --color-seed-tertiary: 0, 95.95%, 48.43%;
+  --color-primary: 48.41, 93.62%, 81.57%;
+  --color-on-primary: 0, 0%, 23.92%;
+  --color-secondary: 248.28, 93.55%, 81.76%;
+  --color-on-secondary: 0, 0%, 23.92%;
+  --color-tertiary: 0, 93.62%, 81.57%;
+  --color-on-tertiary: 0, 0%, 23.92%;
+  --color-neutral: 60, 7.14%, 94.51;
+  --color-on-neutral: 0, 0%, 23.92%;
+  --color-success: 87.27, 93.62%, 81.57%;
+  --color-on-success: 0, 0%, 23.92%;
+  --color-warning: 48.41, 93.62%, 81.57%;
+  --color-on-warning: 0, 0%, 23.92%;
+  --color-danger: 0, 93.62%, 81.57%;
+  --color-on-danger: 0, 0%, 23.92%;
+}
