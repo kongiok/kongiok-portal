@@ -150,56 +150,56 @@
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-L.ttf") url("/fonts/GenWanMin/GenWanMinJP-L.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-L.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-L.ttf") url("/fonts/GenWanMin/GenWanMinJP-L.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-L.ttf") format("truetype");
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-R.ttf") url("/fonts/GenWanMin/GenWanMinJP-R.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-R.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-R.ttf") url("/fonts/GenWanMin/GenWanMinJP-R.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-R.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-M.ttf") url("/fonts/GenWanMin/GenWanMinJP-M.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-M.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-M.ttf") url("/fonts/GenWanMin/GenWanMinJP-M.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-M.ttf") format("truetype");
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-SB.ttf") url("/fonts/GenWanMin/GenWanMinJP-SB.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-SB.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: "GenWanMin";
-  src: url("/fonts/GenWanMin/GenWanMinTW-SB.ttf") url("/fonts/GenWanMin/GenWanMinJP-SB.ttf") format("truetype");
+  src: url("/fonts/GenWanMin/GenWanMinTW-SB.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
 }
